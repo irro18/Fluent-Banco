@@ -1,0 +1,16 @@
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\bin\Debug\FluentBanco.exe.config
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\bin\Debug\FluentBanco.exe
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\bin\Debug\FluentBanco.pdb
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.csprojAssemblyReference.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\MainWindow.g.cs
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\App.g.cs
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco_MarkupCompile.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco_MarkupCompile.lref
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\MainWindow.baml
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.g.resources
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.Form1.resources
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.Properties.Resources.resources
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.csproj.GenerateResource.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.csproj.CoreCompileInputs.cache
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.exe
+C:\Users\ivanR\Documents\UP\7\Patrones de  Diseño\FluentBanco\FluentBanco\obj\Debug\FluentBanco.pdb
